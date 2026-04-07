@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2128664b3f65473a8f08451f1acde6c2, type: 3}
   m_Name: LanguageSettings
   m_EditorClassIdentifier: VRBuilder.Core::VRBuilder.Core.Settings.LanguageSettings
-  ApplicationLanguage: En
+  ApplicationLanguage: ES
